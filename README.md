@@ -1,6 +1,6 @@
 # CODE
-<b>
+<b><i>
 Author = Swayam
-</b>
+</b></i>
 <br>
 Work On Web Development 
